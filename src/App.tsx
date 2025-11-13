@@ -22,7 +22,7 @@ function App() {
           <a className="resume-pill" href="/sukum_resume.pdf" download aria-label="Download resume">
             Resume
           </a>
-          <a className="nav-icon" href="https://github.com" target="_blank" rel="noreferrer" aria-label="GitHub profile">
+          <a className="nav-icon" href="https://github.com/Faiisu" target="_blank" rel="noreferrer" aria-label="GitHub profile">
             GitHub
           </a>
         </div>
