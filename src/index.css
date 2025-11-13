@@ -1,0 +1,33 @@
+:root {
+  scroll-behavior: smooth;
+}
+
+:root {
+  font-family: 'Inter', 'Sora', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #03010a;
+  color: #e3e9ff;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #03010a;
+  color: #e3e9ff;
+  scroll-behavior: smooth;
+}
+
+a {
+  color: inherit;
+}
