@@ -31,7 +31,7 @@ const ProjectsSection = () => {
               </div>
               <div className="project-focus">{project.focus}</div>
               <a href={project.link} target="_blank" rel="noreferrer">
-                View case -&gt;
+                Git repo -&gt;
               </a>
             </article>
           ))}
