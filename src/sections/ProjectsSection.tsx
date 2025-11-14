@@ -21,9 +21,9 @@ const ProjectsSection = () => {
         <div className="slider-track" ref={sliderRef}>
           {projects.map((project) => (
             <article key={project.title} className="project-card">
-              <div className="project-media">
+              {/* <div className="project-media">
                 <img src={project.image} alt={`${project.title} mockup`} loading="lazy" />
-              </div>
+              </div> */}
               <div className="card-top">
                 <span className="project-stack">{project.role}</span>
                 <h3>{project.title}</h3>
