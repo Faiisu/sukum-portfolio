@@ -1,5 +1,5 @@
 import { useRef } from 'react'
-import { projects } from '../data/portfolio'
+import { projects } from '../data/projects.ts'
 
 const ProjectsSection = () => {
   const sliderRef = useRef<HTMLDivElement>(null)
