@@ -23,7 +23,7 @@ export const languages = [
 export const skillColumns: SkillColumn[] = [
   {
     title: 'Languages',
-    items: ['Python', 'JavaScript / TypeScript', 'SQL'],
+    items: ['Python', 'JavaScript / TypeScript', 'SQL','C/Cpp'],
   },
   {
     title: 'Web Development',

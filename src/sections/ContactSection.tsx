@@ -11,10 +11,6 @@ const ContactSection = () => (
         <h3>Get in touch</h3>
         <ul>
           <li>
-            <span>Phone</span>
-            <a href={`tel:${contactInfo.phone}`}>{contactInfo.phone}</a>
-          </li>
-          <li>
             <span>Email</span>
             <a href={`mailto:${contactInfo.email}`}>{contactInfo.email}</a>
           </li>
