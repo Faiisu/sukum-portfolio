@@ -54,7 +54,6 @@ export const traits = [
 ]
 
 export const contactInfo = {
-  phone: '091-285-2513',
   email: 'sukum.d@ku.th',
   location: 'Bangkok, Thailand',
 }

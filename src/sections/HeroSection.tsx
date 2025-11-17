@@ -17,7 +17,6 @@ const HeroSection = () => (
       </a>
     </div>
     <div className="hero-contact">
-      <span>{contactInfo.phone}</span>
       <span>{contactInfo.email}</span>
     </div>
   </header>
