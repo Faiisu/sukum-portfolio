@@ -27,9 +27,7 @@ const ContactSection = () => (
       <div>
         <h3>Opportunities</h3>
         <ul>
-          <li>Internships &amp; contract roles</li>
-          <li>AI / ML collaborations</li>
-          <li>Research partnerships</li>
+          <li>Internships</li>
         </ul>
       </div>
     </div>
